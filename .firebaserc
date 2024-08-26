@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "application-sfr",
+    "tarek": "application-sfr"
+  },
+  "targets": {},
+  "etags": {}
+}
